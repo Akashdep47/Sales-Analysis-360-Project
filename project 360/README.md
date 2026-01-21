@@ -1,14 +1,16 @@
-Project Overview - Understanding sales across products, categories, stores, region, comprehensive sales analytics solution covering revenue, margin, 
-customer behavior,store performance, and product trends. 
-Uses SQL for extraction, Python for cleaning and EDA.
-Business Requirements 
-1. Track sales trends. 
-2. Product revenue & margin. 
-3. Top/Bottom SKUs. 
-4. Store/Region performance. 
-5. Customer acquisition & retention. 
-6. Promotion impact. 
-7. Return analysis. 
-8. Seasonal trends. 
-9. Customer segmentation. 
-10. Recommendations.
+Project Overview
+
+The Sales Analysis 360 Project is a comprehensive sales analytics solution designed to analyze business performance across products, categories, stores, and regions. The project focuses on evaluating revenue, margins, customer behavior, store performance, and product trends to support data-driven decision-making.
+Data is extracted using SQL and processed using Python for data cleaning, exploratory data analysis (EDA), and visualization.
+
+Business Requirements
+Analyze and track sales trends over time.
+Evaluate product-level revenue and margin performance.
+Identify top- and bottom-performing SKUs.
+Assess store- and region-wise sales performance.
+Analyze customer acquisition and retention patterns.
+Measure the impact of promotions on sales and profitability.
+Perform return analysis to identify key drivers.
+Identify seasonal sales patterns and demand fluctuations.
+Segment customers based on purchasing behavior.
+Provide actionable business recommendations
